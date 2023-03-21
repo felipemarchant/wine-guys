@@ -37,4 +37,3 @@ entre outros recursos ...
 <img src="screenshots/15.png"/>
 <img src="screenshots/16.png"/>
 <img src="screenshots/17.png"/>
-<img src="screenshots/18.png"/>
